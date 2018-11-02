@@ -1,4 +1,4 @@
-# PoshBot.Calculator
+# PoshBot.8ball
 
 A simple [PoshBot](https://github.com/PoshBotio/PoshBot) for returning 8ball answers to questions.
 
